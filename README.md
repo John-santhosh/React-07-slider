@@ -1,1 +1,1 @@
-# React-07-slider
+# React project 7
